@@ -7,8 +7,9 @@ Seurat es uno de los paquetes más utilizados en R para el análisis de datos de
 Para los análisis introductorios se emplean datos públicos que pueden descargarse desde 10x Genomics:
 https://cf.10xgenomics.com/samples/cell/pbmc3k/pbmc3k_filtered_gene_bc_matrices.tar.gz
 
-Además, el repositorio incluye un informe de análisis que aplica Seurat a un database de humanos con y sin esquizofrenia. Dichos datos pueden obtenerse desde:
+Además, el repositorio incluye un informe de análisis que aplica Seurat a un database de humanos con y sin esquizofrenia. Dichos archivos pueden obtenerse desde:
 https://brainscope.gersteinlab.org/data/snrna_expr_matrices_zip/SZBDMulti-Seq.zip
+PEC2_sample_metadata.txt contiene los datos relativos a las matrices descargadas.
 
 Finalmente, este trabajo aborda la reproducibilidad del estudio:
 
@@ -16,7 +17,7 @@ Single-Cell Transcriptional Profiling Reveals Cell Type-Specific Sex-Dependent M
 
 Zhou, R., Zhang, T., & Sun, B. (2025). International Journal of Molecular Sciences, 26(5), 2227. https://doi.org/10.3390/ijms26052227
 
-El objetivo es evaluar hasta qué punto los resultados descritos en el artículo pueden reproducirse a partir de los datos y metodologías disponibles, así como explorar las diferencias moleculares dependientes del sexo a nivel celular en esquizofrenia.
+El objetivo es evaluar hasta qué punto los resultados descritos en el artículo pueden reproducirse a partir de los datos y metodologías disponibles, así como explorar las diferencias moleculares dependientes del sexo a nivel celular en esquizofrenia. 
 
 
 
